@@ -1,0 +1,30 @@
+----------------INSTRUCTION---------------------
+
+Use following keys to run the game.
+
+t        -> toss.
+e        -> to start game.
+d        -> move right
+a        -> move left
+w        -> move up
+s        -> move down
+b        -> to print rule book
+Spacebar -> to select and deselect piece.
+r        -> to reset.
+u        -> to undo
+R        -> to review
+Q        -> to Quit the game
+N        -> to restart
+H        -> To see these INSTRUCTIONs
+m        -> draw 
+k        -> to print next k states
+
+How to play:
+
+1. Red color will show whose turn it is to play.
+2. To move piece, select piece using spacebar and go to new position and deselect it over there.
+3. To capture piece, select piece which through you want to capture and deselect it at its new position after capture.
+4. Use above mentioned keys to move the pieces.
+
+
+press 'e' to exit
